@@ -1,0 +1,30 @@
+.event-image {
+  width: 300px;
+  margin-bottom: 5px;
+}
+
+.heading {
+  font-family: 'roboto';
+  font-size: 25px;
+  color: #ffffff;
+  margin-bottom: 8px;
+  text-align: start;
+}
+.location {
+  font-family: 'roboto';
+  font-size: 18px;
+  color: #ffffff;
+  text-align: start;
+}
+
+.event {
+  margin-bottom: 30px;
+  cursor: pointer;
+}
+
+.event-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  outline: none;
+}
